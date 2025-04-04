@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.86.1",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "gsap": "^3.12.7",
+    "remixicon": "^4.6.0"
+  }
+}
